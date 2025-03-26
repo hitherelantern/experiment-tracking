@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/460fc6eb3d4c4a6ea203963f31548b87/artifacts
+end_time: 1742987558633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 460fc6eb3d4c4a6ea203963f31548b87
+run_name: orderly-worm-560
+run_uuid: 460fc6eb3d4c4a6ea203963f31548b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742987557208
+status: 3
+tags: []
+user_id: amalprasad.k

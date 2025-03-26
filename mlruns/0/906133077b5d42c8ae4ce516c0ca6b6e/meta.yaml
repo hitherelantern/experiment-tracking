@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/906133077b5d42c8ae4ce516c0ca6b6e/artifacts
+end_time: 1742985947946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 906133077b5d42c8ae4ce516c0ca6b6e
+run_name: classy-trout-414
+run_uuid: 906133077b5d42c8ae4ce516c0ca6b6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742985947802
+status: 3
+tags: []
+user_id: amalprasad.k
